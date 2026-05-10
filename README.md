@@ -8,11 +8,11 @@ A Deep Convolutional Generative Adversarial Network (DCGAN) built from scratch u
 ## Results
 
 ### Generated Digits (After 50 Epochs)
-<img width="329" height="328" alt="image" src="https://github.com/user-attachments/assets/d8c56a59-ad58-42c7-9924-c10e164ef958" />
+![image]<img width="329" height="328" alt="image" src="https://github.com/user-attachments/assets/d8c56a59-ad58-42c7-9924-c10e164ef958" />
 
 
 ### Loss Curves
-<img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/d14c837f-7ad4-4fa7-aecc-e1311583ba0a" />
+![image]<img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/d14c837f-7ad4-4fa7-aecc-e1311583ba0a" />
 
 
 ---
